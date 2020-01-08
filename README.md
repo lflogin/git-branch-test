@@ -42,7 +42,7 @@ git 本地仓库 .git
               git checkout master;   
           
           2. 合并dev分支
-              git metge dev
+              git merge dev
 
 
 
