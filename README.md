@@ -22,3 +22,7 @@ git 本地仓库 .git
   分支： mater
         dev
         release
+
+
+
+        我是master分支上的代码， 我即将要被合并， 到dev分支上
