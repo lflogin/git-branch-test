@@ -30,3 +30,6 @@ git branch -a: 查看本地和远程的所有分支
 git checkout -b dev  创建分支 并切换分支
 
 git checkout dev  切换分支
+
+
+我是master分支上的代码 ， 我即将和要被合并 到dev分支上
